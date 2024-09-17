@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sruthikr
-- 👀 I’m interested in coding and learning enthusiaist
+- 👀 I’m interested in coding and learning enthusiast
 - 🌱 I’m currently learning computer science and cybersecurity
 - 💞️ I’m looking to collaborate on github community
 - 📫 How to reach me sruthikr1505@gmail.com
