@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning computer science and cybersecurity
 - 💞️ I’m looking to collaborate on github community
 - 📫 How to reach me sruthikr1505@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Hidden emotions
 
 <!---
 Sruthikr1505/Sruthikr1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
