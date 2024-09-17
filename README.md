@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sruthikr1505
+- 👋 Hi, I’m @Sruthikr
 - 👀 I’m interested in coding and learning enthusiaist
 - 🌱 I’m currently learning computer science and cybersecurity
 - 💞️ I’m looking to collaborate on github community
