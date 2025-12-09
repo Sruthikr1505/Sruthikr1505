@@ -1,6 +1,6 @@
 <!-- Cyberpunk Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=32&center=true&vCenter=true&width=800&lines=+Sruthi+—+Cybersecurity+Enthusiast;Aspiring SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner;Cyberpunk+Mode+Enabled+" />
+  <img src="https://readme-typing-svg.demolab.com?color=00FFF7&size=32&center=true&vCenter=true&width=900&lines=Sruthi+—+Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+%7C+Threat+Hunter;Cyberpunk+Mode+Enabled" />
 </h1>
 
 ---
@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FFD1&height=2" />
 </p>
+
 
 <!-- ABOUT ME BOX -->
 <h2 style="color:#00FFE5;">🧩 About Me</h2>
