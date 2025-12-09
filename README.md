@@ -1,6 +1,6 @@
 <!-- Cyberpunk Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=32&center=true&vCenter=true&width=800&lines=⚡+Sruthi+—+Cybersecurity+Enthusiast;SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner;Cyberpunk+Mode+Enabled+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFF7&size=32&center=true&vCenter=true&width=800&lines=+Sruthi+—+Cybersecurity+Enthusiast;Aspiring SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner;Cyberpunk+Mode+Enabled+" />
 </h1>
 
 ---
@@ -39,7 +39,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 ---
 
 <!-- PROJECTS SECTION -->
-<h2 style="color:#00FFE5;">🔥 Featured Projects</h2>
+<h2 style="color:#00FFE5;">My Projects</h2>
 
 ### 🛡️ **Advanced SIEM Project — ELK Stack**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
@@ -116,16 +116,6 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 
 ---
 
-<!-- STATS -->
-<h2 style="color:#00FFE5;">💻 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sruthikr1505&show_icons=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthikr1505&layout=compact&theme=dracula" />
-</p>
-
----
-
 <!-- SYSTEM SPECS -->
 <h2 style="color:#00FFE5;">⚙️ System Specs (Fun Section)</h2>
 
@@ -143,8 +133,8 @@ Theme: Cyberpunk Dark Mode
 <h2 style="color:#00FFE5;">📡 Connect With Me</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFE5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0055" /></a>
+  <a href="https://www.linkedin.com/in/sruthi-k-r-536b86270/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFE5" /></a>
+  <a href="sruthikr1505@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0055" /></a>
   <a href="https://github.com/Sruthikr1505"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 </p>
 
