@@ -1,6 +1,6 @@
 <!-- Header with Neon Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=700&lines=⚡+Sruthi+—+Cybersecurity+Enthusiast;SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=700&lines=+Sruthi+—+Cybersecurity+Enthusiast;Aspiring SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
 </h1>
 
 
@@ -39,7 +39,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 ### 🛡️ **Advanced SIEM Project — ELK Stack**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
 • Detection Engineering • Threat Hunting • Incident Response  
-• Built custom correlation rules → Alerts → Case Management → Response  
+• Built custom correlation rules → Alerts → Case Management → Response 
 • Detected: Credential Stuffing, DNS Tunneling, PowerShell Exploitation  
 </div>
 
