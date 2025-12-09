@@ -35,7 +35,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 <!-- PROJECTS SECTION -->
 <h2 style="color:#00FFE5;">My Projects</h2>
 
-### 🛡️ **Advanced SIEM Project — ELK Stack**
+###  **Advanced SIEM Project — ELK Stack**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
 • Detection Engineering • Threat Hunting • Incident Response  
 • Built custom correlation rules → Alerts → Case Management → Response 
@@ -44,7 +44,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 
 ---
 
-### 🎣 **Phishing Simulation — GoPhish + Mailtrap**
+###  **Phishing Simulation — GoPhish + Mailtrap**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
 • Designed adversary-style phishing campaigns  
 • Metrics tracked: Opens • Clicks • Credential Submission  
@@ -54,7 +54,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 
 ---
 
-### 🐳 **Dockerized Nessus CVE Intelligence Dashboard**
+###  **Dockerized Nessus CVE Intelligence Dashboard**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
 • Nessus report ingestion + Vulners API enrichment  
 • MongoDB → Slack alerts → Streamlit Dashboard → Auto PDF  
@@ -64,7 +64,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
 
 ---
 
-### 🧪 **CYBERHACK — Terminal-Based Cybersecurity Simulator**
+###  **CYBERHACK — Terminal-Based Cybersecurity Simulator**
 <div style="border-left:3px solid #00FFE5; padding-left:12px;">
 • Hacker-themed Python simulator  
 • Missions, ASCII UI, XP system  
