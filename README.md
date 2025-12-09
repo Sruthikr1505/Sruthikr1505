@@ -1,6 +1,6 @@
 <!-- Header with Neon Typing Effect (Heroku-style URL) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=700&lines=+Sruthi+—+Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=700&lines=+Sruthi+—+Cybersecurity+Enthusiast;+Aspiring+SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
 </h1>
 
 
