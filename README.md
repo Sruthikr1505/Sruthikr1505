@@ -1,14 +1,8 @@
-<!-- Cyberpunk Typing Header -->
+<!-- Header with Neon Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FFF7&size=32&center=true&vCenter=true&width=900&lines=Sruthi+—+Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+%7C+Threat+Hunter;Cyberpunk+Mode+Enabled" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=700&lines=⚡+Sruthi+—+Cybersecurity+Enthusiast;SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
 </h1>
 
----
-
-<!-- Neon Cyberpunk Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FFD1&height=2" />
-</p>
 
 
 <!-- ABOUT ME BOX -->
