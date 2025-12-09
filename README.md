@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=900&lines=Sruthi+—+Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=00FFDD&size=28&center=true&vCenter=true&width=900&duration=3500&pause=1000&cursor=%7C&lines=Sruthi+--+Cybersecurity+Enthusiast;Aspiring+SOC+Analyst+%7C+Threat+Hunter+%7C+Blue+Team+Learner" 
+  />
 </h1>
 
 <!-- ABOUT ME BOX -->
