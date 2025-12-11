@@ -118,7 +118,6 @@ OS: macOS & Kali Linux
 Editor: VS Code  
 Shell: zsh  
 Mindset: Continuous Learning  
-Theme: Cyberpunk Dark Mode  
 </div>
 
 ---
