@@ -19,8 +19,7 @@
 
 <pre>
 &gt; whoami
-Sruthi — Cybersecurity learner focused on SOC workflows, threat detection,
-and adversary simulation.
+Sruthi — Cybersecurity learner focused on SOC workflows, threat detection and adversary simulation.
 
 &gt; mission
 Think like an attacker, defend like a SOC analyst.
