@@ -25,7 +25,7 @@ Sruthi — Cybersecurity learner focused on SOC workflows, threat detection and 
 Think like an attacker, defend like a SOC analyst.
 
 &gt; current-focus
-Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation
+Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation · Pentesting
 </pre>
 </div>
 
