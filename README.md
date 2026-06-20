@@ -48,7 +48,7 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation · Pentesting
 • Designed adversary-style phishing campaigns  
 • Metrics tracked: Opens • Clicks • Credential Submission  
 • Awareness training using attacker + defender perspectives  
-🔗 <a href="#" style="color:#00FFE5;">Project Link</a>
+🔗 <a href="https://github.com/Sruthikr1505/adversary-phishing-lab-macos" style="color:#00FFE5;">Project Link</a>
 </div>
 
 ---
