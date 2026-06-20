@@ -48,7 +48,6 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation · Pentesting
 • Designed adversary-style phishing campaigns  
 • Metrics tracked: Opens • Clicks • Credential Submission  
 • Awareness training using attacker + defender perspectives  
-🔗 <a href="https://github.com/Sruthikr1505/adversary-phishing-lab-macos" style="color:#00FFE5;">Project Link</a>
 </div>
 
 ---
@@ -58,7 +57,6 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation · Pentesting
 • Nessus report ingestion + Vulners API enrichment  
 • MongoDB → Slack alerts → Streamlit Dashboard → Auto PDF  
 • Fully automated & containerized  
-🔗 <a href="#" style="color:#00FFE5;">Project Link</a>
 </div>
 
 ---
@@ -68,7 +66,6 @@ Wazuh · MISP · ELK · GoPhish · Nessus · Python Automation · Pentesting
 • Hacker-themed Python simulator  
 • Missions, ASCII UI, XP system  
 • Teaches password cracking, scanning, phishing detection  
-🔗 <a href="#" style="color:#00FFE5;">Project Link</a>
 </div>
 
 ---
